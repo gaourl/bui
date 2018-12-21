@@ -33,8 +33,8 @@ bui-default
  1. [资源文件结构](http://www.builive.com/apps/default/main.php#menu/resource)
  2. [js文件引入方式](http://www.builive.com/apps/default/main.php#menu/loader)
 
-## 联系我们
+## 联系我
 
-旺旺群号： 778141976
+邮箱：gaourl@163.com
 
 
